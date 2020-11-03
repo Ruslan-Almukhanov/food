@@ -7,5 +7,5 @@
 .idea
 .vscode
 .cache
-.eslintcache
+.jshintrc
 package-lock.json
